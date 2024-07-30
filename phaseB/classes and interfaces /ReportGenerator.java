@@ -1,7 +1,7 @@
 package pd;
 
 /**
- * @author Praveen Singh
+ * @author Hrushikesh Ramesh
  */
 public class ReportGenerator {
     public int getPercentageMatch(){
